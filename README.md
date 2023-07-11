@@ -18,6 +18,10 @@ Who participated in the data?
 Who is left out? Why?
 Who made the data?
 
+The most important question: What's the takeaway from the data?
+
+Part of an analysts job is to provide context and clarifications to make sure that audiences are not only reading the correct numbers, but understanding what they mean.
+
 <hr>
 
 In order to be a good machine learning programmer, we need to know what Statistics is and how they help us do our job:
@@ -52,4 +56,9 @@ A model is a representation of what data represents.
 - Reinforcement Learning
 - Feature Engineering
 - Kitchen Sink Approach
-- 
+
+
+Cause and Effect / Causal Link
+- Providing that one event CAUSES another.
+
+Data Scientists do the best they can to isolate and control variables and get comfortable working with some amount of error because data is often created from controllled experiments, but when investigating things in the outside world, controlled environments are hard to come by.
