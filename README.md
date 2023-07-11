@@ -62,3 +62,10 @@ Cause and Effect / Causal Link
 - Providing that one event CAUSES another.
 
 Data Scientists do the best they can to isolate and control variables and get comfortable working with some amount of error because data is often created from controllled experiments, but when investigating things in the outside world, controlled environments are hard to come by.
+
+### Data Gaps
+"garbage in, garbage out." 
+The ability to separate good, mediocre, and poor quality data.
+A crucial skill for data literacy.
+Data-driven conclusions are only as **strong, robust**, and **well-supported** as the data behind them.
+
