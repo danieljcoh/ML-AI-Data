@@ -50,6 +50,37 @@ To teach computers to learn patterns from reading data. (What patterns can they 
 ## What is a Model?
 A model is a representation of what data represents.
 
+<hr>
+
+## Where does data come from?
+When talking about data collection, we need to discuss data ethics.
+Much of the data available comes from individuals who can be identified based on the data collected.
+An acronym for such people are PII (pie) -- "Personally identifiable information"
+**Information includes**:
+    - Email Addresses
+    - Phone Numbers
+    - SSN
+    - Credit Card Information
+    - Medical Records
+    - etc...
+    
+It is obligatory to protect where the data comes from, and the data itself.
+
+## Ethical issues regarding data collection
+1. **Consent**: Individuals must be informed before data can be collected.
+2. **Ownership**: Individuals always retain ownership of their data.
+3. **Privacy**: Individual's info must always be kept secure.
+4. **Intention**: Individuals must be informed of the intended uses of the data.
+     1. Why it is being taken.
+     2. How it will be stored.
+     3. How it will be used.
+  
+
+
+  
+
+
+
 ### Keywords
 - Supervised Learning VS Unsupervised Learning (look for data clusters) // What is a data cluster? 
 - Deep Learning (Need lots of high quality data)
@@ -68,4 +99,25 @@ Data Scientists do the best they can to isolate and control variables and get co
 The ability to separate good, mediocre, and poor quality data.
 A crucial skill for data literacy.
 Data-driven conclusions are only as **strong, robust**, and **well-supported** as the data behind them.
+
+### Garbage in, garbage out
+The quality of the predictions made during a predictive analysis is deeply dependent on the quality of the data used to generate the predictions.
+
+For example, if a model is trained with mislabeled data, it will produce inaccurate predictions no matter how good the actual algorithm is. This is commonly referred to as, “garbage in, garbage out.”
+
+### Addressing Bias
+Bias in data collection leads to poorer quality data. Recognizing bias in data is a crucial data literacy skill. Some key questions about bias include: 
+“Who made the data?” 
+“Who participated in the data?”
+“Who is left out of the data?”
+
+### What are Statistics?
+Statistics helps to measure whether an event happens by chance or by a systemic factor or factors.
+
+
+
+
+
+
+
 
